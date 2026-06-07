@@ -6,7 +6,6 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.2+-green?style=flat-square)](https://langchain.com)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-orange?style=flat-square)](https://trychroma.com)
 [![Llama3](https://img.shields.io/badge/Meta-Llama3-purple?style=flat-square)](https://ai.meta.com/llama/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 ---
 
@@ -180,10 +179,3 @@ B.Tech CSE @ Jaypee Institute of Information Technology, Noida
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
-
----
-
-> ⭐ If you found this useful, consider giving it a star!
